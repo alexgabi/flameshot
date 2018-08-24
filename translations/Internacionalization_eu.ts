@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/tools/launcher/applaunchertool.cpp" line="34"/>
         <source>App Launcher</source>
-        <translation>Aplikazioen abiarazlea</translation>
+        <translation>Abiarazteko aplikazioa</translation>
     </message>
     <message>
         <location filename="../src/tools/launcher/applaunchertool.cpp" line="42"/>
